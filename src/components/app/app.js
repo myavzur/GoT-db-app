@@ -53,11 +53,13 @@ export default class App extends Component {
                         </Row>
         
                         <Switch>
+                            <Route path="/" exact component={CharacterPage}/>    
+
                             <Route path="/characters" component={CharacterPage}/>   
                         
                             <Route path="/houses" component={HousePage}/>
 
-                            <Route path="/books" component={BookPage}/>        
+                            <Route path="/books" component={BookPage}/>    
 
                             <Route component={NullPage}/>
                         </Switch>
