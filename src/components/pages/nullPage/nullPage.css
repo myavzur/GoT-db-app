@@ -1,0 +1,21 @@
+.null-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 400px;
+    padding: 25px;
+    margin: 0 auto;
+
+    background-color: #fff;
+}
+
+.null-page h1 {
+    font-size: 70px;
+    margin: 0;
+    padding: 0;
+}
+
+.null-page p {
+    line-height: 2;
+}

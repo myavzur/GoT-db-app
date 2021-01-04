@@ -1,0 +1,43 @@
+.toggle-btn {
+    padding: 12px;
+    background-color: #3428b8;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    margin-bottom: 40px;
+    outline: none;
+    box-shadow: 0px 0px 30px rgba(256,256,256,.1);
+    cursor: pointer;
+    transition: background-color .3s;
+}
+.toggle-btn:focus,
+.toggle-btn:hover {
+    outline: none;
+    background-color: blue;
+}
+
+
+.term,
+.name {
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.nav-title {
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+}
+.nav-link:not(.nav-title):hover {
+    color: black;
+    background-color: white;
+}
+
+.app {
+    background: blue url('got.jpeg') center center no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    height: 100%;	
+    overflow-x: hidden;
+    font-size: 16px;
+}
