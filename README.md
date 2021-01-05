@@ -1,6 +1,6 @@
 ## Preview of this app 
 
-![GOT Preview](/Game Of Thrones.png "Preview")
+![GOT Preview](Game Of Thrones.png)
 
 ## Available Scripts
 
