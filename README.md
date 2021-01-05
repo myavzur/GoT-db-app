@@ -1,6 +1,6 @@
 ## Preview of this app 
 
-![GOT Preview](Game Of Thrones.png)
+![GOT Preview](https://github.com/xQ-zie/Game-Of-Thrones-Database/Game Of Thrones.png)
 
 ## Available Scripts
 
