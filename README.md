@@ -1,6 +1,6 @@
-## Preview of this app 
+## Preview 
 
-![GOT Preview](https://github.com/xQ-zie/Game-Of-Thrones-Database/raw/main/GOT_Preview.jpg)
+![GOT Preview](https://github.com/xQ-zie/Game-Of-Thrones-Database/raw/main/GOT_Preview.jpg "Preview")
 
 ## Available Scripts
 
